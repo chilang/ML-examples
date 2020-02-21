@@ -13,7 +13,6 @@ From a base Raspian install you will need to add TensorFlow dependencies:
 
     sudo apt-get install libblas-dev liblapack-dev python-dev libatlas-base-dev gfortran python3-setuptools python3-h5py 
     
-    # Replace this URL with the current version:
     sudo pip3 install tensorflow
 
 ## Example
